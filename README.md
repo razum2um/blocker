@@ -1,6 +1,6 @@
 # Blocker
 
-TODO: Write a gem description
+[![Build Status](https://secure.travis-ci.org/razum2um/blocker.png?branch=master)](https://travis-ci.org/razum2um/blocker)
 
 ## Installation
 
